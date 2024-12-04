@@ -14,6 +14,6 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/71/ab/d6/71abd6011ee9653a6de9c3d50890af16.gif" width="800" height="300"/>
+  <img src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif" width="800" height="300"/>
 </div>
 
