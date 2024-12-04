@@ -14,6 +14,6 @@
 </h1>
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/celia-pena/overlay/background-image/" width="1000" height="200"/>
+  <img src="https://i.pinimg.com/originals/71/ab/d6/71abd6011ee9653a6de9c3d50890af16.gif" width="1000" height="200"/>
 </div>
 
